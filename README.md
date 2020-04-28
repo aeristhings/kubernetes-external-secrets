@@ -1,5 +1,9 @@
 [![Join Slack](https://img.shields.io/badge/Join%20us%20on-Slack-e01563.svg)](https://godaddy-oss-slack.herokuapp.com/)
 
+This is a fork of [godaddy/kubernetes-external-secrets] (https://github.com/godaddy/kubernetes-external-secrets.git), with pull request(s):
+[GCP Secret Manager Backend Enhancements] https://github.com/godaddy/kubernetes-external-secrets/pull/347 - Merged
+Refer to the original repository for latest updates.
+
 # Kubernetes External Secrets
 
 Kubernetes External Secrets allows you to use external secret
